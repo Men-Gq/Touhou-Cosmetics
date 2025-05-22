@@ -10,7 +10,7 @@ Touhou Cosmetics略してTHC？このコスチュームは【東方project】に
 ・動画や配信などで使用するの自由です。(概要欄にクレジット表記があると嬉しいです。)<br>・一般的に常識とされる範囲内で使用してください。
 
 ### 禁止事項
-・東方Projectの二次創作ガイドラインに記載されている禁止事項。https://touhou-project.news/guideline/(東方Projectの二次創作ガイドライン)<br>・自作発言。<br>・再配布。<br>・スキンの改変等。
+・東方Projectの二次創作ガイドラインに記載されている禁止事項。<br>https://touhou-project.news/guideline/(東方Projectの二次創作ガイドライン)<br>・自作発言。<br>・再配布。<br>・スキンの改変等。
 
 # クレジット
 ・Men_Gq
