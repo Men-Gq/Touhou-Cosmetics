@@ -109,6 +109,10 @@
 			"Name" : "お祓い棒",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
+			"OnButton" : {
+				"Name" : "お祓い棒2",
+				"Author" : "Men"
+			},
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		},
@@ -126,6 +130,54 @@
 			"Name" : "ミニ八卦炉",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
+			"OnButton" : {
+				"Name" : "ミニ八卦炉2",
+				"Author" : "Men"
+			},
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "10b77ceaaa080a23f8c690d732666c33",
+				"Address" : "Gbz4Zgbr_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : True,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "お祓い棒2",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsHidden" : True,
+			"OnButton" : {
+				"Name" : "お祓い棒",
+				"Author" : "Men"
+			},
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "a3affab23a0356f56003eb9880cea0d5",
+				"Address" : "wTV2S5MM_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ミニ八卦炉2",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsHidden" : True,
+			"OnButton" : {
+				"Name" : "ミニ八卦炉",
+				"Author" : "Men"
+			},
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
