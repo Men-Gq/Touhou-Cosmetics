@@ -2,8 +2,12 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
-				"Hash" : "d6976198f7152b5605c634cef5069231",
+				"Hash" : "9f63fe5512ed0e9a8134a1bc8690ccf3",
 				"Address" : "zEOa1zM_Main.png",
 				"ExIsFront" : False
 			},
@@ -12,10 +16,6 @@
 				"Address" : "zEOa1zM_Climb.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "博麗霊夢",
@@ -25,8 +25,12 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : True,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
-				"Hash" : "d6976198f7152b5605c634cef5069231",
+				"Hash" : "9f63fe5512ed0e9a8134a1bc8690ccf3",
 				"Address" : "r2l4qhGjc_Main.png",
 				"ExIsFront" : False
 			},
@@ -35,10 +39,6 @@
 				"Address" : "r2l4qhGjc_Climb.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "博麗霊夢\(color\)",
@@ -48,8 +48,12 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : False,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
-				"Hash" : "ac5adc8cb86cb3f1e33b89adb218dc28",
+				"Hash" : "73b493ece80d9a7dbb281ffd1842abde",
 				"Address" : "5ZZsO1mjb_Main.png",
 				"ExIsFront" : False
 			},
@@ -58,10 +62,6 @@
 				"Address" : "5ZZsO1mjb_Climb.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : False,
-			"Adaptive" : False,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "霧雨魔理沙",
@@ -71,20 +71,20 @@
 			"IsLocalizable" : True
 		},
 		{
+			"Adaptive" : True,
+			"Bounce" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
 			"Main" : {
-				"Hash" : "ac5adc8cb86cb3f1e33b89adb218dc28",
-				"Address" : "5ZZsO1mjb_Main.png",
+				"Hash" : "73b493ece80d9a7dbb281ffd1842abde",
+				"Address" : "MFfzZtmI_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
 				"Hash" : "8637a751be004196f62f0519b29faa65",
-				"Address" : "5ZZsO1mjb_Climb.png",
+				"Address" : "MFfzZtmI_Climb.png",
 				"ExIsFront" : False
 			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "霧雨魔理沙\(color\)",
