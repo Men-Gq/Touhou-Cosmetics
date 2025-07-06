@@ -1,0 +1,11 @@
+{
+	"Id" : "THCosmetics",
+	"Name" : "Touhou Cosmetics",
+	"Author" : "Men",
+	"Description" : "東方projectに関するコスチュームを追加するアドオンです。大した画力はありませんのでご了承ください。<br>※このアドオンは「東方project」の二次創作です。",
+	"Version" : "1.0",
+	"Build" : 0,
+	"Dependency" : [
+	],
+	"Hidden" : False
+}

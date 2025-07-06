@@ -2,14 +2,14 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"Climb" : {
-				"Hash" : "d549f52c99c7e4f4232eba09554bb126",
-				"Address" : "zEOa1zM_Climb.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "1b03de47de571b45e3ba3a32fa6201fb",
 				"Address" : "zEOa1zM_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d549f52c99c7e4f4232eba09554bb126",
+				"Address" : "zEOa1zM_Climb.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -25,37 +25,14 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Climb" : {
-				"Hash" : "d549f52c99c7e4f4232eba09554bb126",
-				"Address" : "r2l4qhGjc_Climb.png",
-				"ExIsFront" : False
-			},
-			"Main" : {
-				"Hash" : "9f63fe5512ed0e9a8134a1bc8690ccf3",
-				"Address" : "r2l4qhGjc_Main.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "博麗霊夢\(color\)",
-			"Author" : "Men",
-			"Package" : "THCosmetics",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Climb" : {
-				"Hash" : "8637a751be004196f62f0519b29faa65",
-				"Address" : "5ZZsO1mjb_Climb.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "73b493ece80d9a7dbb281ffd1842abde",
 				"Address" : "5ZZsO1mjb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c39bcbb84a6b9980ce6c2fec185db782",
+				"Address" : "5ZZsO1mjb_Climb.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -71,37 +48,14 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Climb" : {
-				"Hash" : "8637a751be004196f62f0519b29faa65",
-				"Address" : "MFfzZtmI_Climb.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
-				"Hash" : "73b493ece80d9a7dbb281ffd1842abde",
-				"Address" : "MFfzZtmI_Main.png",
-				"ExIsFront" : False
-			},
-			"Bounce" : False,
-			"Adaptive" : True,
-			"HideHands" : False,
-			"IsSkinny" : False,
-			"SeekerCostume" : True,
-			"FPS" : 1,
-			"Name" : "霧雨魔理沙\(color\)",
-			"Author" : "Men",
-			"Package" : "THCosmetics",
-			"IsUnlockable" : False,
-			"IsLocalizable" : True
-		},
-		{
-			"Climb" : {
-				"Hash" : "400a03310232c668604a4cf967eae40e",
-				"Address" : "HWS7uiMnc_Climb.png",
-				"ExIsFront" : False
-			},
-			"Main" : {
-				"Hash" : "4a0f908c3425eb299c942a2a2854f160",
+				"Hash" : "9802208bb2bee21ffddbba7997f0b835",
 				"Address" : "HWS7uiMnc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "dc7e261a62fda27b886a2f72d5a5bc00",
+				"Address" : "HWS7uiMnc_Climb.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -111,6 +65,121 @@
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "十六夜咲夜",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9de3750c63648db7d4ee75381e773e78",
+				"Address" : "UAHkfAjb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "cced123f9142e693cf1ff886c68a9a52",
+				"Address" : "UAHkfAjb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "魂魄妖夢",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "cbae98aff60230cee8d408c877312ee6",
+				"Address" : "En2hMTTxb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "57f63cdfbdaeec4ca1db576d02f34d10",
+				"Address" : "En2hMTTxb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "鈴仙・優曇華院・イナバ",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "84d65ed27b4220abfcee3014c0278eb9",
+				"Address" : "W2XVnng5_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d48e63e0a726cecb7db3ad641296e280",
+				"Address" : "W2XVnng5_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "東風谷早苗",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0082797102c4ee956f02396b38bcb162",
+				"Address" : "IdNp4tQ_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "de786620ce206067f5f690d8b6d36ab7",
+				"Address" : "IdNp4tQ_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "射命丸文",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "56883c75b822e2c2a2d67f885998c885",
+				"Address" : "SeRL8c_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "66fb5ce7f630b54be496205312f11d1c",
+				"Address" : "SeRL8c_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "チルノ",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
 			"IsUnlockable" : False,
@@ -141,7 +210,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "c991ca4dcdedbea43b9587bf391a71a1",
+				"Hash" : "ebea98896a7c5572e7d06c7320efe3b6",
 				"Address" : "L45NpMEs_Main.png",
 				"ExIsFront" : False
 			},
