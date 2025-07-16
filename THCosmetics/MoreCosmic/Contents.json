@@ -189,7 +189,7 @@
 	"Visors" : [
 		{
 			"Main" : {
-				"Hash" : "47c0612b69f0b60275c7a18f02e99417",
+				"Hash" : "eca2f5d3bdb963cb96e006a1354ddfdb",
 				"Address" : "XVFrRrw_Main.png",
 				"ExIsFront" : False
 			},
@@ -210,7 +210,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "ebea98896a7c5572e7d06c7320efe3b6",
+				"Hash" : "4bfae50262625b4efe80cae05f02a2d7",
 				"Address" : "L45NpMEs_Main.png",
 				"ExIsFront" : False
 			},
@@ -231,7 +231,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "10b77ceaaa080a23f8c690d732666c33",
+				"Hash" : "53c03e13993eadf78a9ff30a93d017c0",
 				"Address" : "Gbz4Zgbr_Main.png",
 				"ExIsFront" : False
 			},
@@ -253,7 +253,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "a3affab23a0356f56003eb9880cea0d5",
+				"Hash" : "a0083adf870bda86372f00e3983aa6b0",
 				"Address" : "wTV2S5MM_Main.png",
 				"ExIsFront" : False
 			},
@@ -268,6 +268,129 @@
 			"IsHidden" : True,
 			"OnButton" : {
 				"Name" : "ミニ八卦炉",
+				"Author" : "Men"
+			},
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "cd3d7bfa122e98b7f47354f5ac3d83d5",
+				"Address" : "7XgNHwDY_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "メイドナイフ",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "a93f20febe6ad65825ccfebbc7a556f1",
+				"Address" : "CsaurE2L_Main.png",
+				"ExHash" : "87f30e4b4f47497276faab731eb6e3fb",
+				"ExAddress" : "PrRdLw7Pb_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Address" : "",
+				"ExHash" : "2b8f71bc4f1cb91849c0c023c26d09a6",
+				"ExAddress" : "PrRdLw7Pb_Back.png",
+				"ExIsFront" : False
+			},
+			"BackFlip" : {
+				"ExHash" : "5a9382905baacf51f4bfba1a67619a79",
+				"ExAddress" : "PrRdLw7Pb_BackFlip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Address" : "",
+				"ExHash" : "6a2f790317cda7217ea52a71fcd0c28e",
+				"ExAddress" : "PrRdLw7Pb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "白楼剣&楼観剣",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"OnButton" : {
+				"Name" : "白楼剣&楼観剣納刀",
+				"Author" : "Men"
+			},
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "87f30e4b4f47497276faab731eb6e3fb",
+				"Address" : "PrRdLw7Pb_Main.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "2b8f71bc4f1cb91849c0c023c26d09a6",
+				"Address" : "PrRdLw7Pb_Back.png",
+				"ExIsFront" : False
+			},
+			"BackFlip" : {
+				"Hash" : "5a9382905baacf51f4bfba1a67619a79",
+				"Address" : "PrRdLw7Pb_BackFlip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "6a2f790317cda7217ea52a71fcd0c28e",
+				"Address" : "PrRdLw7Pb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "白楼剣&楼観剣抜刀",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsHidden" : True,
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Back" : {
+				"Hash" : "4f609685358252cdb2a77a42bb44992a",
+				"Address" : "GN7qLw7Pb_Back.png",
+				"ExIsFront" : False
+			},
+			"BackFlip" : {
+				"Hash" : "b49ce9fcffaac1e9b0fec51a907def71",
+				"Address" : "GN7qLw7Pb_BackFlip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Address" : "",
+				"ExHash" : "6a2f790317cda7217ea52a71fcd0c28e",
+				"ExAddress" : "PrRdLw7Pb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "白楼剣&楼観剣納刀",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsHidden" : True,
+			"OnButton" : {
+				"Name" : "白楼剣&楼観剣",
 				"Author" : "Men"
 			},
 			"IsUnlockable" : False,
