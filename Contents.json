@@ -396,6 +396,106 @@
 			},
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "1c35632da6421b18660caf23e630ee3d",
+				"Address" : "JP4LNr4Qb_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ルナティックガン1",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsHidden" : True,
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "9bf4567bc298f4be3f85bfea2d7ec63a",
+				"Address" : "imvu9XS3_Main.png",
+				"ExHash" : "1c35632da6421b18660caf23e630ee3d",
+				"ExAddress" : "JP4LNr4Qb_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ルナティックガン",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"OnButton" : {
+				"Name" : "ルナティックガン2手",
+				"Author" : "Men"
+			},
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "924e908b826a5e4b2094aa65be54c1ba",
+				"Address" : "KP4LNr4Qb_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ルナティックガン2",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsHidden" : True,
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "89a6eaaf868a72f2c606f32d12f0bbb3",
+				"Address" : "O33jPuTxc_Main.png",
+				"ExHash" : "924e908b826a5e4b2094aa65be54c1ba",
+				"ExAddress" : "KP4LNr4Qb_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "ルナティックガン2手",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsHidden" : True,
+			"OnButton" : {
+				"Name" : "ルナティックガン",
+				"Author" : "Men"
+			},
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "d9bf621318b5e1a503e9f3af139b63c8",
+				"Address" : "6AeW_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "御幣",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Nameplates" : [
