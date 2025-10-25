@@ -3,12 +3,17 @@
 	"Hats" : [
 		{
 			"Main" : {
-				"Hash" : "1b03de47de571b45e3ba3a32fa6201fb",
+				"Hash" : "7767a4372f420e7bf5354bab6bac6fbd",
 				"Address" : "zEOa1zM_Main.png",
 				"ExIsFront" : False
 			},
+			"Back" : {
+				"Hash" : "65d4168d3cf233b8474e06215ce79d78",
+				"Address" : "zEOa1zM_Back.png",
+				"ExIsFront" : False
+			},
 			"Climb" : {
-				"Hash" : "d549f52c99c7e4f4232eba09554bb126",
+				"Hash" : "550229dc531332989d9b0fd23a5432b1",
 				"Address" : "zEOa1zM_Climb.png",
 				"ExIsFront" : False
 			},
@@ -26,12 +31,27 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "73b493ece80d9a7dbb281ffd1842abde",
+				"Hash" : "36b7e5702f8b95d8d9c8c884f68bb4cf",
 				"Address" : "5ZZsO1mjb_Main.png",
 				"ExIsFront" : False
 			},
+			"Flip" : {
+				"Hash" : "59b1e8274e55c631f9a16ba63c2e00a1",
+				"Address" : "5ZZsO1mjb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "34ad3830f4c4a6f55978fcfae7ff76f9",
+				"Address" : "5ZZsO1mjb_Back.png",
+				"ExIsFront" : False
+			},
+			"BackFlip" : {
+				"Hash" : "2a49ee019cc5b2b5758cb7b892b1dc22",
+				"Address" : "5ZZsO1mjb_BackFlip.png",
+				"ExIsFront" : False
+			},
 			"Climb" : {
-				"Hash" : "c39bcbb84a6b9980ce6c2fec185db782",
+				"Hash" : "59cf7197001390e8e061280936230683",
 				"Address" : "5ZZsO1mjb_Climb.png",
 				"ExIsFront" : False
 			},
@@ -49,12 +69,17 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "9802208bb2bee21ffddbba7997f0b835",
+				"Hash" : "65b7e7cddf2a647239311365c538b2a4",
 				"Address" : "HWS7uiMnc_Main.png",
 				"ExIsFront" : False
 			},
+			"Back" : {
+				"Hash" : "7859ae4ddb1f149a579bef9c3137ae31",
+				"Address" : "HWS7uiMnc_Back.png",
+				"ExIsFront" : False
+			},
 			"Climb" : {
-				"Hash" : "dc7e261a62fda27b886a2f72d5a5bc00",
+				"Hash" : "15f2bf314da40f49395a3434b19a9b91",
 				"Address" : "HWS7uiMnc_Climb.png",
 				"ExIsFront" : False
 			},
@@ -72,8 +97,23 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "9de3750c63648db7d4ee75381e773e78",
+				"Hash" : "7106200fed371486e63fe6557dfa8379",
 				"Address" : "UAHkfAjb_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "7b40fbab23136f449698bbe5a57d1dc7",
+				"Address" : "UAHkfAjb_Flip.png",
+				"ExIsFront" : False
+			},
+			"Back" : {
+				"Hash" : "d104a6b00e3e09c9c4f0d66ecf0a68c1",
+				"Address" : "UAHkfAjb_Back.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "7b40fbab23136f449698bbe5a57d1dc7",
+				"Address" : "UAHkfAjb_Move.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
@@ -494,6 +534,89 @@
 			"Name" : "御幣",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "3b8306d60f01148418905ee42c1496bc",
+				"Address" : "LLtW58Qab_Main.png",
+				"ExHash" : "a1fdb6675050d367f1f6f3da52005dc2",
+				"ExAddress" : "zRHr8c_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "カメラ&天狗のうちわ",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"OnButton" : {
+				"Name" : "天狗のうちわ手",
+				"Author" : "Men"
+			},
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "62c16757eaa47214184e05fb2c9c8281",
+				"Address" : "fV4tqmxI_Main.png",
+				"ExHash" : "0c62261d3be11d4df9b0b45c08a67357",
+				"ExAddress" : "bB6gDaJf_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : True,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "天狗のうちわ手",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsHidden" : True,
+			"OnButton" : {
+				"Name" : "カメラ&天狗のうちわ",
+				"Author" : "Men"
+			},
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "0c62261d3be11d4df9b0b45c08a67357",
+				"Address" : "bB6gDaJf_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "天狗のうちわ",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsHidden" : True,
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "a1fdb6675050d367f1f6f3da52005dc2",
+				"Address" : "zRHr8c_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "カメラ",
+			"Author" : "Men",
+			"Package" : "THCosmetics",
+			"IsHidden" : True,
 			"IsUnlockable" : False,
 			"IsLocalizable" : True
 		}
