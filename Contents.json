@@ -2,19 +2,19 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
+			"Climb" : {
+				"Hash" : "09660345b5734e347c8cbc57db090ae1",
+				"Address" : "zEOa1zM_Climb.png",
+				"ExIsFront" : False
+			},
 			"Main" : {
-				"Hash" : "7767a4372f420e7bf5354bab6bac6fbd",
+				"Hash" : "b40c6b5de8dd30bf8cf029ad2433745c",
 				"Address" : "zEOa1zM_Main.png",
 				"ExIsFront" : False
 			},
 			"Back" : {
-				"Hash" : "65d4168d3cf233b8474e06215ce79d78",
+				"Hash" : "4f7cb58ec7151dd23f96fda6a71fb33d",
 				"Address" : "zEOa1zM_Back.png",
-				"ExIsFront" : False
-			},
-			"Climb" : {
-				"Hash" : "550229dc531332989d9b0fd23a5432b1",
-				"Address" : "zEOa1zM_Climb.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -22,14 +22,20 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "博麗霊夢",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
+			"Climb" : {
+				"Hash" : "59cf7197001390e8e061280936230683",
+				"Address" : "5ZZsO1mjb_Climb.png",
+				"ExIsFront" : False
+			},
 			"Main" : {
 				"Hash" : "36b7e5702f8b95d8d9c8c884f68bb4cf",
 				"Address" : "5ZZsO1mjb_Main.png",
@@ -50,24 +56,25 @@
 				"Address" : "5ZZsO1mjb_BackFlip.png",
 				"ExIsFront" : False
 			},
-			"Climb" : {
-				"Hash" : "59cf7197001390e8e061280936230683",
-				"Address" : "5ZZsO1mjb_Climb.png",
-				"ExIsFront" : False
-			},
 			"Bounce" : False,
 			"Adaptive" : False,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "霧雨魔理沙",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
+			"Climb" : {
+				"Hash" : "15f2bf314da40f49395a3434b19a9b91",
+				"Address" : "HWS7uiMnc_Climb.png",
+				"ExIsFront" : False
+			},
 			"Main" : {
 				"Hash" : "65b7e7cddf2a647239311365c538b2a4",
 				"Address" : "HWS7uiMnc_Main.png",
@@ -78,24 +85,25 @@
 				"Address" : "HWS7uiMnc_Back.png",
 				"ExIsFront" : False
 			},
-			"Climb" : {
-				"Hash" : "15f2bf314da40f49395a3434b19a9b91",
-				"Address" : "HWS7uiMnc_Climb.png",
-				"ExIsFront" : False
-			},
 			"Bounce" : False,
 			"Adaptive" : False,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "十六夜咲夜",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
+			"Climb" : {
+				"Hash" : "cced123f9142e693cf1ff886c68a9a52",
+				"Address" : "UAHkfAjb_Climb.png",
+				"ExIsFront" : False
+			},
 			"Main" : {
 				"Hash" : "7106200fed371486e63fe6557dfa8379",
 				"Address" : "UAHkfAjb_Main.png",
@@ -116,113 +124,113 @@
 				"Address" : "UAHkfAjb_Move.png",
 				"ExIsFront" : False
 			},
-			"Climb" : {
-				"Hash" : "cced123f9142e693cf1ff886c68a9a52",
-				"Address" : "UAHkfAjb_Climb.png",
-				"ExIsFront" : False
-			},
 			"Bounce" : False,
 			"Adaptive" : False,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "魂魄妖夢",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "cbae98aff60230cee8d408c877312ee6",
-				"Address" : "En2hMTTxb_Main.png",
-				"ExIsFront" : False
-			},
 			"Climb" : {
 				"Hash" : "57f63cdfbdaeec4ca1db576d02f34d10",
 				"Address" : "En2hMTTxb_Climb.png",
 				"ExIsFront" : False
 			},
+			"Main" : {
+				"Hash" : "cbae98aff60230cee8d408c877312ee6",
+				"Address" : "En2hMTTxb_Main.png",
+				"ExIsFront" : False
+			},
 			"Bounce" : False,
 			"Adaptive" : False,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "鈴仙・優曇華院・イナバ",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "84d65ed27b4220abfcee3014c0278eb9",
-				"Address" : "W2XVnng5_Main.png",
-				"ExIsFront" : False
-			},
 			"Climb" : {
 				"Hash" : "d48e63e0a726cecb7db3ad641296e280",
 				"Address" : "W2XVnng5_Climb.png",
 				"ExIsFront" : False
 			},
+			"Main" : {
+				"Hash" : "84d65ed27b4220abfcee3014c0278eb9",
+				"Address" : "W2XVnng5_Main.png",
+				"ExIsFront" : False
+			},
 			"Bounce" : False,
 			"Adaptive" : False,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "東風谷早苗",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "0082797102c4ee956f02396b38bcb162",
-				"Address" : "IdNp4tQ_Main.png",
-				"ExIsFront" : False
-			},
 			"Climb" : {
 				"Hash" : "de786620ce206067f5f690d8b6d36ab7",
 				"Address" : "IdNp4tQ_Climb.png",
 				"ExIsFront" : False
 			},
+			"Main" : {
+				"Hash" : "0082797102c4ee956f02396b38bcb162",
+				"Address" : "IdNp4tQ_Main.png",
+				"ExIsFront" : False
+			},
 			"Bounce" : False,
 			"Adaptive" : False,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "射命丸文",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
-			"Main" : {
-				"Hash" : "56883c75b822e2c2a2d67f885998c885",
-				"Address" : "SeRL8c_Main.png",
-				"ExIsFront" : False
-			},
 			"Climb" : {
 				"Hash" : "66fb5ce7f630b54be496205312f11d1c",
 				"Address" : "SeRL8c_Climb.png",
 				"ExIsFront" : False
 			},
+			"Main" : {
+				"Hash" : "56883c75b822e2c2a2d67f885998c885",
+				"Address" : "SeRL8c_Main.png",
+				"ExIsFront" : False
+			},
 			"Bounce" : False,
 			"Adaptive" : False,
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "チルノ",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		}
 	],
@@ -237,7 +245,6 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "お祓い棒",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
@@ -246,6 +253,7 @@
 				"Author" : "Men"
 			},
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -258,7 +266,6 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "ミニ八卦炉",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
@@ -267,6 +274,7 @@
 				"Author" : "Men"
 			},
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -279,7 +287,6 @@
 			"BehindHat" : True,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "お祓い棒2",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
@@ -289,6 +296,7 @@
 				"Author" : "Men"
 			},
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -301,7 +309,6 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "ミニ八卦炉2",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
@@ -311,6 +318,7 @@
 				"Author" : "Men"
 			},
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -323,11 +331,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "メイドナイフ",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -360,7 +368,6 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "白楼剣&楼観剣",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
@@ -369,6 +376,7 @@
 				"Author" : "Men"
 			},
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -396,12 +404,12 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "白楼剣&楼観剣抜刀",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
 			"IsHidden" : True,
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -425,7 +433,6 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "白楼剣&楼観剣納刀",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
@@ -435,6 +442,7 @@
 				"Author" : "Men"
 			},
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -447,12 +455,12 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "ルナティックガン1",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
 			"IsHidden" : True,
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -467,7 +475,6 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "ルナティックガン",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
@@ -476,6 +483,7 @@
 				"Author" : "Men"
 			},
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -488,12 +496,12 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "ルナティックガン2",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
 			"IsHidden" : True,
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -508,7 +516,6 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "ルナティックガン2手",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
@@ -518,6 +525,7 @@
 				"Author" : "Men"
 			},
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -530,11 +538,11 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "御幣",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -549,7 +557,6 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "カメラ&天狗のうちわ",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
@@ -558,6 +565,7 @@
 				"Author" : "Men"
 			},
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -572,7 +580,6 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "天狗のうちわ手",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
@@ -582,6 +589,7 @@
 				"Author" : "Men"
 			},
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -594,12 +602,12 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "天狗のうちわ",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
 			"IsHidden" : True,
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -612,12 +620,12 @@
 			"BehindHat" : False,
 			"BackmostBack" : False,
 			"Fixed" : False,
-			"FPS" : 1,
 			"Name" : "カメラ",
 			"Author" : "Men",
 			"Package" : "THCosmetics",
 			"IsHidden" : True,
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		}
 	],
