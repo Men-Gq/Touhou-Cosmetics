@@ -7,7 +7,7 @@ AmongUsで幻想入り。
 <br>東方Projectの二次創作ガイドライン<br>https://touhou-project.news/guideline/
 
 # 利用規約
-・動画や配信などで使用するの自由です。<br>・一般的に常識とされる範囲内で使用してください。
+・動画や配信などで使用は自由です。<br>・一般的に常識とされる範囲内で使用してください。
 
 ### 禁止事項
 ・東方Projectの二次創作ガイドラインに記載されている禁止事項。<br>https://touhou-project.news/guideline/ (東方Projectの二次創作ガイドライン)<br>・自作発言。<br>・再配布。<br>・スキンの改変等。
