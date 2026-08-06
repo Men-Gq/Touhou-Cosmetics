@@ -2,20 +2,23 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"Climb" : {
-				"Hash" : "09660345b5734e347c8cbc57db090ae1",
-				"Address" : "zEOa1zM_Climb.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "b40c6b5de8dd30bf8cf029ad2433745c",
 				"Address" : "zEOa1zM_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Back" : {
 				"Hash" : "4f7cb58ec7151dd23f96fda6a71fb33d",
 				"Address" : "zEOa1zM_Back.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "09660345b5734e347c8cbc57db090ae1",
+				"Address" : "zEOa1zM_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
@@ -31,30 +34,35 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Climb" : {
-				"Hash" : "59cf7197001390e8e061280936230683",
-				"Address" : "5ZZsO1mjb_Climb.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
-				"Hash" : "36b7e5702f8b95d8d9c8c884f68bb4cf",
+				"Hash" : "ce89b11f587f86b6a38fc023caf032cd",
 				"Address" : "5ZZsO1mjb_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Flip" : {
-				"Hash" : "59b1e8274e55c631f9a16ba63c2e00a1",
+				"Hash" : "2f87c1ea276a1fea052fc33de29607cb",
 				"Address" : "5ZZsO1mjb_Flip.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Back" : {
-				"Hash" : "34ad3830f4c4a6f55978fcfae7ff76f9",
+				"Hash" : "fa98f43567ee1ef4ed74018a2a135b5d",
 				"Address" : "5ZZsO1mjb_Back.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"BackFlip" : {
-				"Hash" : "2a49ee019cc5b2b5758cb7b892b1dc22",
+				"Hash" : "6aca6313e8f4e682143da6602148b47f",
 				"Address" : "5ZZsO1mjb_BackFlip.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "42f61ccfb6d0bc460edbcc768ab3c18a",
+				"Address" : "5ZZsO1mjb_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
@@ -70,20 +78,23 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Climb" : {
-				"Hash" : "15f2bf314da40f49395a3434b19a9b91",
-				"Address" : "HWS7uiMnc_Climb.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "65b7e7cddf2a647239311365c538b2a4",
 				"Address" : "HWS7uiMnc_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Back" : {
 				"Hash" : "7859ae4ddb1f149a579bef9c3137ae31",
 				"Address" : "HWS7uiMnc_Back.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "15f2bf314da40f49395a3434b19a9b91",
+				"Address" : "HWS7uiMnc_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
@@ -99,30 +110,35 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Climb" : {
-				"Hash" : "cced123f9142e693cf1ff886c68a9a52",
-				"Address" : "UAHkfAjb_Climb.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "7106200fed371486e63fe6557dfa8379",
 				"Address" : "UAHkfAjb_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Flip" : {
 				"Hash" : "7b40fbab23136f449698bbe5a57d1dc7",
 				"Address" : "UAHkfAjb_Flip.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Back" : {
 				"Hash" : "d104a6b00e3e09c9c4f0d66ecf0a68c1",
 				"Address" : "UAHkfAjb_Back.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Move" : {
 				"Hash" : "7b40fbab23136f449698bbe5a57d1dc7",
 				"Address" : "UAHkfAjb_Move.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "cced123f9142e693cf1ff886c68a9a52",
+				"Address" : "UAHkfAjb_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
@@ -138,15 +154,17 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Climb" : {
-				"Hash" : "57f63cdfbdaeec4ca1db576d02f34d10",
-				"Address" : "En2hMTTxb_Climb.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "cbae98aff60230cee8d408c877312ee6",
 				"Address" : "En2hMTTxb_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "57f63cdfbdaeec4ca1db576d02f34d10",
+				"Address" : "En2hMTTxb_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
@@ -162,15 +180,17 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Climb" : {
-				"Hash" : "d48e63e0a726cecb7db3ad641296e280",
-				"Address" : "W2XVnng5_Climb.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "84d65ed27b4220abfcee3014c0278eb9",
 				"Address" : "W2XVnng5_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "d48e63e0a726cecb7db3ad641296e280",
+				"Address" : "W2XVnng5_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
@@ -186,15 +206,17 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Climb" : {
-				"Hash" : "de786620ce206067f5f690d8b6d36ab7",
-				"Address" : "IdNp4tQ_Climb.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
 				"Hash" : "0082797102c4ee956f02396b38bcb162",
 				"Address" : "IdNp4tQ_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "de786620ce206067f5f690d8b6d36ab7",
+				"Address" : "IdNp4tQ_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
@@ -210,15 +232,23 @@
 			"IsLocalizable" : True
 		},
 		{
-			"Climb" : {
-				"Hash" : "66fb5ce7f630b54be496205312f11d1c",
-				"Address" : "SeRL8c_Climb.png",
-				"ExIsFront" : False
-			},
 			"Main" : {
-				"Hash" : "56883c75b822e2c2a2d67f885998c885",
+				"Hash" : "bfde81bb2c811b52c9790fa04639711c",
 				"Address" : "SeRL8c_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Back" : {
+				"Hash" : "cdecc4869db718e6efac43531a337de5",
+				"Address" : "SeRL8c_Back.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
+			},
+			"Climb" : {
+				"Hash" : "889db281dd950ad8fafe99f9579d0b23",
+				"Address" : "SeRL8c_Climb.png",
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Bounce" : False,
 			"Adaptive" : False,
@@ -239,7 +269,8 @@
 			"Main" : {
 				"Hash" : "eca2f5d3bdb963cb96e006a1354ddfdb",
 				"Address" : "XVFrRrw_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : True,
 			"BehindHat" : False,
@@ -260,7 +291,8 @@
 			"Main" : {
 				"Hash" : "4bfae50262625b4efe80cae05f02a2d7",
 				"Address" : "L45NpMEs_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : True,
 			"BehindHat" : False,
@@ -281,7 +313,8 @@
 			"Main" : {
 				"Hash" : "53c03e13993eadf78a9ff30a93d017c0",
 				"Address" : "Gbz4Zgbr_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : True,
 			"BehindHat" : True,
@@ -303,7 +336,8 @@
 			"Main" : {
 				"Hash" : "a0083adf870bda86372f00e3983aa6b0",
 				"Address" : "wTV2S5MM_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : True,
 			"BehindHat" : False,
@@ -325,7 +359,8 @@
 			"Main" : {
 				"Hash" : "cd3d7bfa122e98b7f47354f5ac3d83d5",
 				"Address" : "7XgNHwDY_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : True,
 			"BehindHat" : False,
@@ -344,25 +379,29 @@
 				"Address" : "CsaurE2L_Main.png",
 				"ExHash" : "87f30e4b4f47497276faab731eb6e3fb",
 				"ExAddress" : "PrRdLw7Pb_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Back" : {
 				"Address" : "",
 				"ExHash" : "2b8f71bc4f1cb91849c0c023c26d09a6",
 				"ExAddress" : "PrRdLw7Pb_Back.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"BackFlip" : {
 				"Address" : "",
 				"ExHash" : "5a9382905baacf51f4bfba1a67619a79",
 				"ExAddress" : "PrRdLw7Pb_BackFlip.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Climb" : {
 				"Address" : "",
 				"ExHash" : "6a2f790317cda7217ea52a71fcd0c28e",
 				"ExAddress" : "PrRdLw7Pb_Climb.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : True,
 			"BehindHat" : False,
@@ -383,22 +422,26 @@
 			"Main" : {
 				"Hash" : "87f30e4b4f47497276faab731eb6e3fb",
 				"Address" : "PrRdLw7Pb_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Back" : {
 				"Hash" : "2b8f71bc4f1cb91849c0c023c26d09a6",
 				"Address" : "PrRdLw7Pb_Back.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"BackFlip" : {
 				"Hash" : "5a9382905baacf51f4bfba1a67619a79",
 				"Address" : "PrRdLw7Pb_BackFlip.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Climb" : {
 				"Hash" : "6a2f790317cda7217ea52a71fcd0c28e",
 				"Address" : "PrRdLw7Pb_Climb.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : False,
 			"BehindHat" : False,
@@ -416,18 +459,21 @@
 			"Back" : {
 				"Hash" : "4f609685358252cdb2a77a42bb44992a",
 				"Address" : "GN7qLw7Pb_Back.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"BackFlip" : {
 				"Hash" : "b49ce9fcffaac1e9b0fec51a907def71",
 				"Address" : "GN7qLw7Pb_BackFlip.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Climb" : {
 				"Address" : "",
 				"ExHash" : "6a2f790317cda7217ea52a71fcd0c28e",
 				"ExAddress" : "PrRdLw7Pb_Climb.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : False,
 			"BehindHat" : False,
@@ -449,7 +495,8 @@
 			"Main" : {
 				"Hash" : "1c35632da6421b18660caf23e630ee3d",
 				"Address" : "JP4LNr4Qb_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : False,
 			"BehindHat" : False,
@@ -469,7 +516,8 @@
 				"Address" : "imvu9XS3_Main.png",
 				"ExHash" : "1c35632da6421b18660caf23e630ee3d",
 				"ExAddress" : "JP4LNr4Qb_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : True,
 			"BehindHat" : False,
@@ -490,7 +538,8 @@
 			"Main" : {
 				"Hash" : "924e908b826a5e4b2094aa65be54c1ba",
 				"Address" : "KP4LNr4Qb_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : False,
 			"BehindHat" : False,
@@ -510,7 +559,8 @@
 				"Address" : "O33jPuTxc_Main.png",
 				"ExHash" : "924e908b826a5e4b2094aa65be54c1ba",
 				"ExAddress" : "KP4LNr4Qb_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : True,
 			"BehindHat" : False,
@@ -532,7 +582,8 @@
 			"Main" : {
 				"Hash" : "d9bf621318b5e1a503e9f3af139b63c8",
 				"Address" : "6AeW_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : True,
 			"BehindHat" : False,
@@ -551,7 +602,8 @@
 				"Address" : "LLtW58Qab_Main.png",
 				"ExHash" : "a1fdb6675050d367f1f6f3da52005dc2",
 				"ExAddress" : "zRHr8c_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : True,
 			"BehindHat" : False,
@@ -574,7 +626,8 @@
 				"Address" : "fV4tqmxI_Main.png",
 				"ExHash" : "0c62261d3be11d4df9b0b45c08a67357",
 				"ExAddress" : "bB6gDaJf_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : True,
 			"BehindHat" : False,
@@ -596,7 +649,8 @@
 			"Main" : {
 				"Hash" : "0c62261d3be11d4df9b0b45c08a67357",
 				"Address" : "bB6gDaJf_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : False,
 			"BehindHat" : False,
@@ -614,7 +668,8 @@
 			"Main" : {
 				"Hash" : "a1fdb6675050d367f1f6f3da52005dc2",
 				"Address" : "zRHr8c_Main.png",
-				"ExIsFront" : False
+				"ExIsFront" : False,
+				"AnimSync" : 0
 			},
 			"Adaptive" : False,
 			"BehindHat" : False,
